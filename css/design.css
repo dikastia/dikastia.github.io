@@ -67,6 +67,7 @@ header {display:none;}
 	border: 1px solid #000;
 	border-radius: 8px; 
 	padding:5px 0px 5px 5px;
+	margin-right:5px;
 }
 .terms-content .tags a {background-color: #FF8E8E;}
 .terms-content .categories a {background-color: #FFEB33;}
@@ -187,9 +188,8 @@ header {display:none;}
 }
 .sidebar_categories a{color:#FFEB33; font-size:12pt; }
 .sidebar_categories a:hover{color:#FFFACC;}
-.sidebar_tags {list-style:none; padding:0px; margin:0px; margin-top:10px;}
-.sidebar_tags li { display:inline;}
-.sidebar_tags a {
+.sidebar_tags {margin-top:10px; text-align:center;}
+.tags-title a{
 	color:black;
 	font-size: 9pt;
 	font-weight: bold;
@@ -199,8 +199,8 @@ header {display:none;}
 	border-radius: 5px; 
 	padding:3px 0px 3px 3px;
 }
-.sidebar_tags span {background-color: #FED6D6; padding:3px; border-radius: 5px; }
-.sidebar_tags a:hover {background-color: #FFCCCC;}
+.tags-title .count {background-color: #FED6D6; padding:3px; border-radius: 5px; }
+.tags-title a:hover {background-color: #FFCCCC;}
 /* 카피라이터 */
 .footer {
 	position: static;
