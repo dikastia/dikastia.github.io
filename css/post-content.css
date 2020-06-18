@@ -1,0 +1,6 @@
+.post-content pre {overflow: Auto;}
+.post-content pre {border-radius: 7px; padding:10px;}
+.post-content h1, .post-content h2, .post-content h3{border-bottom: 1px solid #999;}
+.post-content h2 {margin-left:15px;}
+.post-content h3 {margin-left:30px;}
+.post-content blockquote {margin-left:10px; padding:0px; border-left: 3px solid #999;}
