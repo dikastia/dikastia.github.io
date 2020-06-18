@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kotori Doc Library</title>
-    <link>https://example.com/categories/</link>
+    <link>https://dikastia.github.io/categories/</link>
     <description>Recent content in Categories on Kotori Doc Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 18 Jun 2020 14:53:42 +0900</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dikastia.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>https://example.com/categories/blog/</link>
+      <link>https://dikastia.github.io/categories/blog/</link>
       <pubDate>Thu, 18 Jun 2020 14:53:42 +0900</pubDate>
       
-      <guid>https://example.com/categories/blog/</guid>
+      <guid>https://dikastia.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ArchLinux</title>
-      <link>https://example.com/categories/archlinux/</link>
+      <link>https://dikastia.github.io/categories/archlinux/</link>
       <pubDate>Wed, 07 Mar 2018 14:53:42 +0900</pubDate>
       
-      <guid>https://example.com/categories/archlinux/</guid>
+      <guid>https://dikastia.github.io/categories/archlinux/</guid>
       <description></description>
     </item>
     

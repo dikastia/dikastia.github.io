@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kotori Doc Library</title>
-    <link>https://example.com/tags/</link>
+    <link>https://dikastia.github.io/tags/</link>
     <description>Recent content in Tags on Kotori Doc Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 18 Jun 2020 14:53:42 +0900</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dikastia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git</title>
-      <link>https://example.com/tags/git/</link>
+      <link>https://dikastia.github.io/tags/git/</link>
       <pubDate>Thu, 18 Jun 2020 14:53:42 +0900</pubDate>
       
-      <guid>https://example.com/tags/git/</guid>
+      <guid>https://dikastia.github.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>https://dikastia.github.io/tags/hugo/</link>
       <pubDate>Thu, 18 Jun 2020 14:53:42 +0900</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://dikastia.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ArchLinux</title>
-      <link>https://example.com/tags/archlinux/</link>
+      <link>https://dikastia.github.io/tags/archlinux/</link>
       <pubDate>Wed, 07 Mar 2018 14:53:42 +0900</pubDate>
       
-      <guid>https://example.com/tags/archlinux/</guid>
+      <guid>https://dikastia.github.io/tags/archlinux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NAS</title>
-      <link>https://example.com/tags/nas/</link>
+      <link>https://dikastia.github.io/tags/nas/</link>
       <pubDate>Wed, 07 Mar 2018 14:53:42 +0900</pubDate>
       
-      <guid>https://example.com/tags/nas/</guid>
+      <guid>https://dikastia.github.io/tags/nas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://example.com/tags/index/</link>
+      <link>https://dikastia.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/index/</guid>
+      <guid>https://dikastia.github.io/tags/index/</guid>
       <description></description>
     </item>
     
